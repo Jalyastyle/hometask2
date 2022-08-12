@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\bin\Debug\net6.0\jjjjj.exe
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\bin\Debug\net6.0\jjjjj.deps.json
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\bin\Debug\net6.0\jjjjj.runtimeconfig.json
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\bin\Debug\net6.0\jjjjj.dll
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\bin\Debug\net6.0\jjjjj.pdb
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.dll
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\refint\jjjjj.dll
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.pdb
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\jjjjj.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hometask4\jjjjj\jjjjj\obj\Debug\net6.0\ref\jjjjj.dll
